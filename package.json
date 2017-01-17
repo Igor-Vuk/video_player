@@ -1,0 +1,23 @@
+{
+  "name": "ericsson_video_player",
+  "version": "1.0.0",
+  "description": "handle video streaming",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igor-Vuk/video_player.git"
+  },
+  "author": "Igor Vukelic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igor-Vuk/video_player/issues"
+  },
+  "homepage": "https://github.com/Igor-Vuk/video_player#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.21"
+  }
+}
