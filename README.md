@@ -37,7 +37,7 @@
 ### Fetching the list of all videos in the database ###
 
 Visit url:   
-/video/lis
+/video/list
 
 - - - -
 ### Examples ###
