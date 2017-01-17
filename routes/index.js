@@ -6,7 +6,7 @@ var fs = require("fs"),
 
 
 //Get a list of videos
-router.get("/list", function(req, res) {4
+router.get("/list", function(req, res) {
     mongo.connect(function(err, db) {
         if(err) {
             //if error happens while connecting to db
