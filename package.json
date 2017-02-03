@@ -1,7 +1,7 @@
 {
-  "name": "ericsson_video_player",
+  "name": "video_player",
   "version": "1.0.0",
-  "description": "handle video streaming",
+  "description": "handle video streaming from local server",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
